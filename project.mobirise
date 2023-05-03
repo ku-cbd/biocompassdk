@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-05-03_2125",
+    "name": "Biocompass.dk",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -33,6 +33,16 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "5.8.9",
     "siteFonts": [],
+    "favicon": false,
+    "mbrsiteDomain": "5kned6j7xv",
+    "imageResize": false,
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 3,
     "versionPublish": "5.8.9"
   },
