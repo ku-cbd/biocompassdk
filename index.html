@@ -1,9 +1,18 @@
 <html>
 <head>
-<title>Example</title>
+<title>BioCompass.dk</title>
 </head>
 <body>
-<!-- The iframe below will redirect to the target website without the user's knowledge -->
-<iframe src="https://cbducph.wixsite.com/cbducph" style="display:none;"></iframe>
+<!-- The iframe below will redirect to the target website and display its content -->
+<iframe srcdoc='
+  <html>
+    <head>
+      <meta http-equiv="refresh" content="0; URL=https://cbducph.wixsite.com/cbducph">
+    </head>
+    <body>
+      Redirecting...
+    </body>
+  </html>
+' style="width:100%;height:100%;border:none;"></iframe>
 </body>
 </html>
